@@ -1,0 +1,12 @@
+section {
+    min-height: 675px;
+  }
+  
+  .main {
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .App {
+    overflow: auto;
+  }
+  
